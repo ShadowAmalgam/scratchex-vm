@@ -8,9 +8,7 @@ Forked from Turbowarp for the upcoming Scratch mod Scratch Ex
 
 ## Setup
 
-See https://github.com/TurboWarp/scratch-gui/wiki/Getting-Started to setup the complete TurboWarp environment.
-
-If you just want to play with the VM then it's the same process as upstream scratch-vm.
+Should be the same a scratch gui: https://github.com/LLK/scratch-gui/wiki/Getting-Started 
 
 ## Extension authors
 
@@ -18,7 +16,7 @@ If you only use the standard reporter, boolean, and command block types, everyth
 
 ## Compiler Overview
 
-For a high-level overview of how the compiler works, see https://docs.turbowarp.org/how
+For an overview of how the Turbowarp compiler (Which is utilized in Scratch Ex) works, see https://docs.turbowarp.org/how
 
 For more technical information, read the code in src/compiler.
 
