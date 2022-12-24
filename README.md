@@ -1,8 +1,10 @@
-## TurboWarp/scratch-vm
+## Scratch Ex VM
 
 Modified Scratch VM with a JIT compiler and more features.
 
 This is a drop-in replacement for LLK/scratch-vm.
+
+Forked from Turbowarp for the upcoming Scratch mod Scratch Ex
 
 ## Setup
 
@@ -19,10 +21,6 @@ If you only use the standard reporter, boolean, and command block types, everyth
 For a high-level overview of how the compiler works, see https://docs.turbowarp.org/how
 
 For more technical information, read the code in src/compiler.
-
-## Public API
-
-This section was too out of date to be useful. We hope to re-add it as some point.
 
 <!--
 
